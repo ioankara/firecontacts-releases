@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FireContactsUpdates format="1">
+  <release version="0.5.0-beta.1" schema="10" url="https://github.com/ioankara/firecontacts-releases/releases/download/v0.5.0-beta.1/FireContacts-0.5.0-beta.1-Windows-x64.zip" bytes="2171917" sha256="ffb1217c86fa8649a5dd538efbbb6091599bebf252d6f73b7b6db327d44322d6" exeSha256="34177f16d3824cb60f4135ffd281523dd9c2a33a34dd07bcf6d0e6c9109d0f08" />
+</FireContactsUpdates>
