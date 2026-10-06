@@ -4,7 +4,7 @@
 
 Τηλεφωνικός κατάλογος και διαχείριση επαφών για **Windows 10/11, 64 bit**. Φορητή εφαρμογή με τοπική ή κοινή βάση στο δίκτυο.
 
-**[Λήψη εφαρμογής](https://github.com/ioankara/firecontacts-releases/releases/latest)** · [Όλες οι εκδόσεις](https://github.com/ioankara/firecontacts-releases/releases) · [Αναφορά προβλήματος](https://github.com/ioankara/firecontacts-releases/issues)
+**[Λήψη εφαρμογής](https://github.com/ioankara/firecontacts-releases/releases)** · [Αναφορά προβλήματος](https://github.com/ioankara/firecontacts-releases/issues)
 
 - Γρήγορη αναζήτηση χωρίς διάκριση πεζών/κεφαλαίων ή τόνων.
 - Καρφιτσωμένες επαφές και αρχειοθέτηση.
@@ -14,6 +14,6 @@
 - Αντιγραφή για Excel, κλήση και email μέσω των εφαρμογών σας.
 - Άμεση τοπική αποθήκευση και αντίγραφα ασφαλείας.
 
-Κατεβάστε το **FireContacts-…-Windows-x64.zip**, αποσυμπιέστε το και ανοίξτε το **FireContacts.exe**. Για νέες επαφές επιλέξτε **Μενού → Λειτουργία → Επεξεργασία**.
+Κατεβάστε το **FireContacts-…-Windows-x64.zip**, αποσυμπιέστε το και ανοίξτε το **FireContacts.exe**. Για καταχώριση επιλέξτε **Μενού → Νέα επαφή** ή **Επεξεργασία επαφής**. Οι εκδόσεις με ένδειξη **Pre-release** είναι δοκιμαστικές.
 
 Ενημερώσεις: **Μενού → Σχετικά → Έλεγχος για ενημερώσεις**.
